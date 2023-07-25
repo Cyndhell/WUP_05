@@ -66,7 +66,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-Among all those people who are infected in aids there are 3 times more likely to get the aids with the placebo than the people who got the treatment.
+Among all those people who are infected in aids those who did not get the vaccine are 3 times more likely to get the aids with the placebo than the people who got the treatment. The people who have aids have a 24.29% chances to get treated than the people who got the placebo.
 
 ## Inferential Results
 
